@@ -1,5 +1,6 @@
-# Explorer 02 Desafio 03
-O desafio 03 do nível 02 do Explorer consistiu em recriar a página abaixo utilizando apenas a ferramenta figma como apoio. <br>
+# Desafio 03, Nível 02 - Explorer
+
+Este desafio consistiu em recriar a página abaixo utilizando apenas a ferramenta figma como apoio. <br>
 Link figma: https://www.figma.com/file/HpnnYUAe4XdK2JSb56f7Aj/Explorer-(Copy)?node-id=16%3A106
 
 
